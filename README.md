@@ -1,2 +1,2 @@
-# NotebookWithLibs
-Empty Jupyter Notebook with numpy, pandas and matplotlib
+# Курсовая работа
+Jupyter Notebook with numpy, pandas and matplotlib
